@@ -36,6 +36,9 @@
 
 - Kan du introdusere deg selv og karrieren din innen fotball?
 - <font size=3 color=pink>**Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?**</font>
+- <span style="background-color: pink; font-size: 16px;">
+  <strong>Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?</strong>
+</span>
 - Hva er forskjellen på de to rollene i praksis?
 - Hva motiverer deg mest i treningshverdagen?
 - Hvordan vil du beskrive deg selv som trener?
@@ -125,5 +128,5 @@
 
 > «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjI0MTM3MF19
+eyJoaXN0b3J5IjpbMTg2MzQ1Njc0OSwyMDc2MjQxMzcwXX0=
 -->
