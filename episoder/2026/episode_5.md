@@ -35,8 +35,8 @@
 ### Tor-Erik Kristiansen *(hovedtrener A-lag Kvinner / spillerutvikler)*
 
 - Kan du introdusere deg selv og karrieren din innen fotball?
-- **Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?**
-- <span  style="color:blue">*ANSWER*</span>
+- <f  style="color:blue">*ANSWER*</span>
+- <font size=4>**Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?**</font>
 - Hva er forskjellen på de to rollene i praksis?
 - Hva motiverer deg mest i treningshverdagen?
 - Hvordan vil du beskrive deg selv som trener?
@@ -126,5 +126,5 @@
 
 > «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU5NjU5MV19
+eyJoaXN0b3J5IjpbMTkxMzk4NDU3Ml19
 -->
