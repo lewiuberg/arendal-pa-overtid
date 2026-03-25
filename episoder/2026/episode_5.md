@@ -84,7 +84,8 @@
 
 ## Arendal Talent
 
-
+- Kan du fortelle litt om hva Arendal Talent er?
+- 
 
 ---
 
@@ -131,6 +132,6 @@
 
 > «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzQxMzAwNSwzODAyMjc0ODcsMjA3Nj
-I0MTM3MF19
+eyJoaXN0b3J5IjpbMTAxODI0MjY0LDM4MDIyNzQ4NywyMDc2Mj
+QxMzcwXX0=
 -->
