@@ -85,7 +85,8 @@
 ## Arendal Talent
 
 - Kan du fortelle litt om hva Arendal Talent er?
-- 
+- Hvordan ser 2012/2013 kullet som ble tatt ut i år ut?
+- Hva er planen videre? Kan vi forvente noen aldersbestemte lag å sende våre beste spiller til så de slipper å gå til for eksempel Jerv?
 
 ---
 
@@ -132,6 +133,6 @@
 
 > «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODI0MjY0LDM4MDIyNzQ4NywyMDc2Mj
-QxMzcwXX0=
+eyJoaXN0b3J5IjpbMTExOTA2MzI5NiwzODAyMjc0ODcsMjA3Nj
+I0MTM3MF19
 -->
