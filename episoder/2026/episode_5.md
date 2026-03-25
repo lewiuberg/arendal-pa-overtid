@@ -128,11 +128,7 @@
 - Oppfordre til å møte opp på kamp – også damekamper!
 - Still på feltet
 - Be om innspill til temaer og gjester
-
-**Avslutning:**
-
-> «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTA2MzI5NiwzODAyMjc0ODcsMjA3Nj
+eyJoaXN0b3J5IjpbMTMwMzU5MTYzNywzODAyMjc0ODcsMjA3Nj
 I0MTM3MF19
 -->
