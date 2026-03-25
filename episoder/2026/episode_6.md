@@ -119,6 +119,6 @@
 - Still på feltet
 - Be om innspill til temaer og gjester
 
-**Avslutning:**
-
-> «Vi sees på stadion»
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA3OTMzMjE5M119
+-->
