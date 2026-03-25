@@ -77,6 +77,9 @@
 - Hva tror dere blir avgjørende for Arendal Fotball denne sesongen?
 - Hva er deres personlige mål?
 - Hvilke lag ser dere mest frem til å møte?
+- Ståa i troppen med 12 dager til seriestart
+- Forferdelig dårlig treningskamp
+- Hvordan ser man for seg kampen mot mjøndalen?
 
 ---
 
@@ -120,5 +123,5 @@
 - Be om innspill til temaer og gjester
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTMzMjE5M119
+eyJoaXN0b3J5IjpbMTQ0NDEyNDk2LDIwNzkzMzIxOTNdfQ==
 -->
