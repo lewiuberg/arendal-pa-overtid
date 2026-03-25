@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(json|toml|yaml|yml|txt|cfg|conf\\)$\")",
+      "Bash(find /Users/lewiuberg/Repositories/arendal-pa-overtid -not -path */.git/* -not -path */.stackedit-trash/* -type f)"
+    ]
+  }
+}

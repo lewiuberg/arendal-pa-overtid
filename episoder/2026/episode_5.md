@@ -1,127 +1,126 @@
+# EPISODE 5: DAMENE OG UTVIKLINGEN – INSIDE ARENDAL FOTBALL KVINNER
 
-# EPISODE 5 – KLUBBEN BAK LAGET
-
-**Dato:** (sett inn)  
-**Varighet:** 30 minutter og opp (ca. 50–75 min)
+**Dato:** 25.03.2026
+**Varighet:** 40–60 minutter
 
 **Verter:**
+
 - Lewi Lie Uberg
 - Mads Bech-Wilumstad
 
-**Gjest:**
-- Asbjørn Sauesund (daglig leder)
+**Gjest(er):**
 
-**Podcast:** For supportergruppen *Forza Arendal*  
-**Tema:** Klubbd drift, økonomi, identitet og veien videre for Arendal Fotball
+- Tor-Erik Kristiansen (hovedtrener A-lag Kvinner / spillerutvikler)
+- Rebekka Ausland (spiss)
+
+**Podcast:** For supportergruppen *Forza Arendal*
+**Tema:** Arendal Fotball Kvinner – spillerutvikling, spissrollen og hva det faktisk krever å bygge opp et lag.
 
 ---
 
 ## INTRO (2–3 min)
 
-- Velkommen til episode 5
 - Kort intro/jingle
-- Hva episoden skal handle om
-- Introdusere gjest: Asbjørn Sauesund
+- Introdusere gjestene: Tor-Erik Kristiansen og Rebekka Ausland
 
-**Forklare rollen:**
-- Daglig leder
-- Ansvar for helheten i klubben
+**Presisere tonen:**
 
----
-
-## BLI KJENT MED ASBJØRN SAUESUND (6–8 min)
-
-- Hvem er Asbjørn Sauesund?
-- Bakgrunn før rollen i Arendal Fotball
-- Hvordan endte du opp som daglig leder?
-- Hva motiverer deg i denne jobben?
-- Hva slags leder er du?
-- Hva overrasket deg mest da du tok over rollen?
+- Supporterpodcast
+- Nysgjerrig samtale, ikke pressekonferanse
 
 ---
 
-## HVA GJØR EN DAGLIG LEIDER? (8–10 min)
+## BLI KJENT MED GJESTENE (12–15 min)
 
-- Hva består arbeidshverdagen av?
-- Forskjellen på det folk ser og det som skjer bak kulissene
-- Balansen mellom sport og administrasjon
-- Samarbeid med styret og trenerteamet
-- Hvor mye planlegging vs. brannslukking?
+### Tor-Erik Kristiansen *(hovedtrener A-lag Kvinner / spillerutvikler)*
 
----
+- Kan du introdusere deg selv og karrieren din innen fotball?
+- Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?
+- Hva er forskjellen på de to rollene i praksis?
+- Hva motiverer deg mest i treningshverdagen?
+- Hvordan vil du beskrive deg selv som trener?
 
-## ØKONOMI, DRIFT OG REALITETER (10–12 min)
+### Rebekka Ausland *(spiss)*
 
-- Hvordan ser den økonomiske hverdagen ut i en klubb som Arendal?
-- Hva er de største kostnadene?
-
-**Hvor viktig er:**
-- Sponsorer
-- Publikum
-- Frivillige
-- Hvor sårbar er klubben økonomisk?
-- Hvordan jobber man for bærekraft over tid?
-- Hvor viktig er stabil drift sammenlignet med sportslig risiko?
+- Kan du introdusere deg selv og karrieren din så langt?
+- Hvordan vil du beskrive deg selv som spiss?
+- Hva er din fotballhistorie – hvordan startet det?
+- Hva gjorde at du valgte Arendal Fotball?
+- Hvordan har du opplevd miljøet i klubben?
 
 ---
 
-## IDENTITET OG KULTUR I KLUBBEN (8–10 min)
+## ARENDAL FOTBALL KVINNER – PROSJEKTET (8–10 min)
 
-- Hva ønsker dere at Arendal Fotball skal stå for?
-- Hvordan bygger man kultur i hele klubben?
-
-**Samspill mellom:**
-- A-lag
-- Ungdom / bredde
-- Administrasjon
-- Hvor viktig er kontinuitet i ledelsen?
-- Hva betyr lokal tilhørighet for klubben?
+- Hva er ambisjonene for damelaget inn mot sesongen?
+- Hvordan vil du beskrive laget og spillergruppa nå?
+- Hva er det viktigste dere har jobbet med på trening?
+- Hva er en «god sesong» for dere?
+- Hvordan skiller miljøet i damefotball seg fra herresiden – og hva er likt?
 
 ---
 
-## SUPPORTERE OG LOKALSAMFUNN (8–10 min)
+## SPILLERUTVIKLING I PRAKSIS (8–10 min)
 
-- Hvordan opplever klubben supportergruppen Forza Arendal?
-- Hva betyr en aktiv tribune for klubben?
-- Hvordan påvirker supportere klubbens omdømme?
-- Hva kan klubben bli bedre på i dialog med supportere?
-- Hvor viktig er lokalsamfunnet rundt klubben?
-- Hvordan kan flere føle eierskap til Arendal Fotball?
-
----
-
-## VEIEN VIDERE FOR ARENDAL FOTBALL (6–8 min)
-
-- Hva er de langsiktige målene for klubben?
-- Hvordan ser “sunn vekst” ut?
-- Hvor realistiske er ambisjonene?
-- Hva er viktigst de neste årene?
-- Hva håper du Arendal Fotball er kjent for om 5 år?
+- Hva legger du i begrepet spillerutvikling?
+- Hva er det viktigste en ung spiller trenger for å utvikle seg?
+- Hvordan tilpasser du opplegget til ulike spillerprofiler?
+- Hva er de vanligste hindringene du ser hos spillere som vil bli bedre?
+- Rebekka: Hva er det du jobber mest med i din egen utvikling?
+- Hvordan er samspillet mellom deg som trener og Rebekka som spiller i utviklingsarbeidet?
 
 ---
 
-## AVSLUTNING (4–5 min)
+## SPISSROLLEN I DAMEFOTBALL (8–10 min)
 
-- Kort oppsummering
-- Hva gir deg mest motivasjon i jobben?
-- Eventuell hilsen til supporterne
-- Takk til Asbjørn Sauesund for at han stilte
+- Hva kreves av en spiss i Arendals spillestil?
+- Hva er det viktigste du som trener ser etter i en spiss – utover mål?
+- Rebekka: Hva er det morsomste med spissrollen?
+- Hva er mentalt krevende med å spille spiss?
+- Hvordan håndterer man perioder uten mål?
+- Hva er ditt personlige mål for sesongen?
+
+---
+
+## SUPPORTERE OG STEMNING (7–8 min)
+
+- Hva betyr supporterne for dere, både under kamp og ellers?
+- Merker dere forskjell når det er trykk fra tribunen?
+- Har dere opplevd kamper hvor supporterne faktisk løftet dere?
+- Hva kan vi på feltet gjøre for å hjelpe dere mest mulig?
+- Hva tenker dere om å bygge en større supporterkultur rundt damefotball i Arendal?
+
+---
+
+## AVSLUTNING (3–4 min)
+
+- Hva gleder dere dere mest til denne sesongen?
+- Eventuell melding til supporterne
+- Takk til Tor-Erik og Rebekka for at de stilte
 - Oppfordre folk til å møte opp på kamp
 - Still på feltet
 - Følg Forza Arendal
 - Tease neste episode
 
 **Avslutning:**
+
 > «Vi sees på stadion»
 
 ---
 
 ## NOTATER TIL VERTENE *(ikke på lufta)*
 
-- Husk: Dette er klubbens hverdag, ikke en sponsor-presentasjon
+- La gjestene snakke ferdig
 - Still oppfølgingsspørsmål
-- La gjesten forklare og nyansere
-- Ikke jag raske svar – dybde er verdien her
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNDM1NDUwLC0xODYyNTYyNjZdfQ==
--->
+- Ikke stress med tid – gode svar er viktigere enn mange spørsmål
+- Husk: Dette er en samtale, ikke et intervju
+- Dobbeltrolle til Tor-Erik er interessant – utnytt den dynamikken i samtalen
+- Rebekka og Tor-Erik kjenner hverandre godt – la dem snakke til hverandre, ikke bare til vertene
+- Oppfordre folk til å følge Forza Arendal
+- Oppfordre til å møte opp på kamp – også damekamper!
+- Still på feltet
+- Be om innspill til temaer og gjester
+
+**Avslutning:**
+
+> «Vi sees på stadion»
