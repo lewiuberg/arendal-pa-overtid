@@ -82,6 +82,12 @@
 
 ---
 
+## Arendal Talent
+
+
+
+---
+
 ## SUPPORTERE OG STEMNING (7–8 min)
 
 - Hva betyr supporterne for dere, både under kamp og ellers?
@@ -125,5 +131,6 @@
 
 > «Vi sees på stadion»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMjI3NDg3LDIwNzYyNDEzNzBdfQ==
+eyJoaXN0b3J5IjpbMjE0MzQxMzAwNSwzODAyMjc0ODcsMjA3Nj
+I0MTM3MF19
 -->
