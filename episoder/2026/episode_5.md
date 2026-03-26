@@ -1,4 +1,4 @@
-# EPISODE 5: DAMENE OG UTVIKLINGEN – INSIDE ARENDAL FOTBALL KVINNER
+# EPISODE 6: MIDTBANEN – MOTOREN I LAGET
 
 **Dato:** 25.03.2026
 **Varighet:** 40–60 minutter
@@ -10,18 +10,18 @@
 
 **Gjest(er):**
 
-- Tor-Erik Kristiansen (hovedtrener A-lag Kvinner / spillerutvikler)
-- Rebekka Ausland (spiss)
+- Håkon Suggelia (midtbane)
+- Marius Trengereid (midtbane)
 
 **Podcast:** For supportergruppen *Forza Arendal*
-**Tema:** Arendal Fotball Kvinner – spillerutvikling, spissrollen og hva det faktisk krever å bygge opp et lag.
+**Tema:** Midtbanen som lagets motor – kreativitet, løping, struktur og hva det faktisk krever å kontrollere en kamp.
 
 ---
 
 ## INTRO (2–3 min)
 
 - Kort intro/jingle
-- Introdusere gjestene: Tor-Erik Kristiansen og Rebekka Ausland
+- Introdusere gjestene: Håkon Suggelia og Marius Trengereid
 
 **Presisere tonen:**
 
@@ -32,61 +32,54 @@
 
 ## BLI KJENT MED GJESTENE (12–15 min)
 
-### Tor-Erik Kristiansen *(hovedtrener A-lag Kvinner / spillerutvikler)*
+### Håkon Suggelia *(midtbane)*
 
-- Kan du introdusere deg selv og karrieren din innen fotball?
-- <font size=3 color=red>**Hvordan havnet du i en dobbeltrolle som både hovedtrener og spillerutvikler?**</font>
-- Hva er forskjellen på de to rollene i praksis?
-- Hva motiverer deg mest i treningshverdagen?
-- Hvordan vil du beskrive deg selv som trener?
-
-### Rebekka Ausland *(spiss)*
-
-- Kan du introdusere deg selv og karrieren din så langt?
-- Hvordan vil du beskrive deg selv som spiss?
-- Hva er din fotballhistorie – hvordan startet det?
+- Kan du introdusere karrieren din så langt?
+- Hvordan vil du beskrive deg selv som midtbanespiller?
+- Hva er det beste med å spille på midtbanen?
 - Hva gjorde at du valgte Arendal Fotball?
-- Hvordan har du opplevd miljøet i klubben?
+- Hvordan har du opplevd miljøet i klubben så langt?
+
+### Marius Trengereid *(midtbane)*
+
+- Kan du introdusere karrieren din så langt?
+- Hvordan vil du beskrive deg selv som spiller?
+- Hva tiltrakk deg til Arendal Fotball?
+- Hva var førsteinntrykket av klubben og gjengen?
+- Hvordan har du funnet deg til rette?
 
 ---
 
-## ARENDAL FOTBALL KVINNER – PROSJEKTET (8–10 min)
+## MIDTBANEN I ARENDALS SYSTEM (8–10 min)
 
-- Hva er ambisjonene for damelaget inn mot sesongen?
-- Hvordan vil du beskrive laget og spillergruppa nå?
-- Hva er det viktigste dere har jobbet med på trening?
-- Hva er en «god sesong» for dere?
-- Hvordan skiller miljøet i damefotball seg fra herresiden – og hva er likt?
-
----
-
-## SPILLERUTVIKLING I PRAKSIS (8–10 min)
-
-- Hva legger du i begrepet spillerutvikling?
-- Hva er det viktigste en ung spiller trenger for å utvikle seg?
-- Hvordan tilpasser du opplegget til ulike spillerprofiler?
-- Hva er de vanligste hindringene du ser hos spillere som vil bli bedre?
-- Rebekka: Hva er det du jobber mest med i din egen utvikling?
-- Hvordan er samspillet mellom deg som trener og Rebekka som spiller i utviklingsarbeidet?
+- Hvordan ser midtbanespillet ut i Vegard Hansen sitt system?
+- Hva kreves av dere defensivt kontra offensivt?
+- Hvem tar ansvar for å sette tempo i spillet?
+- Hvordan fordeler dere rollene på midtbanen i praksis?
+- Hva jobber dere mest med på trening nå i sesongstarten?
 
 ---
 
-## SPISSROLLEN I DAMEFOTBALL (8–10 min)
+## Å KONTROLLERE EN KAMP (8–10 min)
 
-- Hva kreves av en spiss i Arendals spillestil?
-- Hva er det viktigste du som trener ser etter i en spiss – utover mål?
-- Rebekka: Hva er det morsomste med spissrollen?
-- Hva er mentalt krevende med å spille spiss?
-- Hvordan håndterer man perioder uten mål?
-- Hva er ditt personlige mål for sesongen?
+- Hva vil det si å «kontrollere» en kamp fra midtbanen?
+- Hva er det mentalt krevende med midtbanen – er det mer press enn i andre posisjoner?
+- Hvordan leser dere spillet underveis og tilpasser dere?
+- Hva er den viktigste egenskapen for en god midtbanespiller?
+- Hva er dere best på, og hva jobber dere fortsatt med?
 
 ---
 
-## Arendal Talent
+## FORVENTNINGER TIL SESONGEN (8–10 min)
 
-- Kan du fortelle litt om hva Arendal Talent er?
-- Hvordan ser 2012/2013 kullet som ble tatt ut i år ut?
-- Hva er planen videre? Kan vi forvente noen aldersbestemte lag å sende våre beste spiller til så de slipper å gå til for eksempel Jerv?
+- Hva er ambisjonene deres for sesongen?
+- Hva har laget tatt med seg fra fjoråret?
+- Hva tror dere blir avgjørende for Arendal Fotball denne sesongen?
+- Hva er deres personlige mål?
+- Hvilke lag ser dere mest frem til å møte?
+- Ståa i troppen med 12 dager til seriestart
+- Forferdelig dårlig treningskamp
+- Hvordan ser man for seg kampen mot mjøndalen?
 
 ---
 
@@ -96,7 +89,6 @@
 - Merker dere forskjell når det er trykk fra tribunen?
 - Har dere opplevd kamper hvor supporterne faktisk løftet dere?
 - Hva kan vi på feltet gjøre for å hjelpe dere mest mulig?
-- Hva tenker dere om å bygge en større supporterkultur rundt damefotball i Arendal?
 
 ---
 
@@ -104,7 +96,7 @@
 
 - Hva gleder dere dere mest til denne sesongen?
 - Eventuell melding til supporterne
-- Takk til Tor-Erik og Rebekka for at de stilte
+- Takk til Håkon og Marius for at de stilte
 - Oppfordre folk til å møte opp på kamp
 - Still på feltet
 - Følg Forza Arendal
@@ -122,13 +114,14 @@
 - Still oppfølgingsspørsmål
 - Ikke stress med tid – gode svar er viktigere enn mange spørsmål
 - Husk: Dette er en samtale, ikke et intervju
-- Dobbeltrolle til Tor-Erik er interessant – utnytt den dynamikken i samtalen
-- Rebekka og Tor-Erik kjenner hverandre godt – la dem snakke til hverandre, ikke bare til vertene
+- **NB:** Fyll inn Marius Trengereid sin rolle i overskriften og gjestlisten
+- Utnytt dynamikken mellom to spillere som kjenner hverandre fra treningshverdagen
+- La dem gjerne snakke til hverandre, ikke bare til vertene
 - Oppfordre folk til å følge Forza Arendal
-- Oppfordre til å møte opp på kamp – også damekamper!
+- Oppfordre til å møte opp på kamp
 - Still på feltet
 - Be om innspill til temaer og gjester
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzU5MTYzNywzODAyMjc0ODcsMjA3Nj
-I0MTM3MF19
+eyJoaXN0b3J5IjpbMTQ0NDEyNDk2LDIwNzkzMzIxOTNdfQ==
 -->
