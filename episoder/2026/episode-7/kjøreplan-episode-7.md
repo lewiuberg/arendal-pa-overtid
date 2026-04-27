@@ -71,7 +71,15 @@
 
 ## VH – ER HAN RETT MANN? (10–12 min)
 
-- Hva er VH sine stats så langt – hva forteller tallene?
+**Stats om VH i Arendal Fotball:**
+
+- Statistikk siden han tok over i 2021:
+  - 20 seire – 15 uavgjort – 21 tap
+  - 97–88 i målforskjell
+  - Vunnet 6 av 28 på bortebane
+  - Signert 34 spillere på proffkontrakt
+  - 14 på amatørkontrakt
+  - Kun 2 seire mot topplag siden han tok over
 - Hvordan vil dere beskrive VH som trener ut fra det vi ser?
 - Hva er styrkene hans?
 - Hva er svakhetene?

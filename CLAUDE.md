@@ -15,10 +15,10 @@ GitHub-repo: https://github.com/lewiuberg/arendal-pa-overtid
 
 Hver episode har sin egen mappe under `episoder/YYYY/episode-N/` med to filer:
 
-- `kjøreplan.md` – kjøreplanen som verter bruker under opptak (intern)
-- `beskrivelse.md` – tittel og beskrivelse som publiseres på Spotify og Apple Podcasts. Første linje (H1) er episodetittelen, resten er brødteksten.
+- `kjøreplan-episode-N.md` – kjøreplanen som verter bruker under opptak (intern)
+- `beskrivelse-episode-N.md` – tittel og beskrivelse som publiseres på Spotify og Apple Podcasts. Første linje (H1) er episodetittelen, resten er brødteksten.
 
-Eksempel: `episoder/2026/episode-7/kjøreplan.md` og `episoder/2026/episode-7/beskrivelse.md`.
+Eksempel: `episoder/2026/episode-7/kjøreplan-episode-7.md` og `episoder/2026/episode-7/beskrivelse-episode-7.md`.
 
 ---
 
