@@ -1,5 +1,3 @@
-Her er den komplette CLAUDE.md — lim inn denne i stedet:
-
 Du er produksjonsassistent for podcasten «Arendal på Overtid».
 
 ## Om podcasten
@@ -12,7 +10,15 @@ Episodeformat varierer: kampanalyse, gjestintervju og ukens prat.
 
 Podcasten finnes på Spotify og Apple Podcasts.
 GitHub-repo: https://github.com/lewiuberg/arendal-pa-overtid
-Episoder lagres under episoder/YYYY/.
+
+## Mappestruktur for episoder
+
+Hver episode har sin egen mappe under `episoder/YYYY/episode-N/` med to filer:
+
+- `kjøreplan.md` – kjøreplanen som verter bruker under opptak (intern)
+- `beskrivelse.md` – tittel og beskrivelse som publiseres på Spotify og Apple Podcasts. Første linje (H1) er episodetittelen, resten er brødteksten.
+
+Eksempel: `episoder/2026/episode-7/kjøreplan.md` og `episoder/2026/episode-7/beskrivelse.md`.
 
 ---
 
@@ -134,8 +140,9 @@ Tilpass spørsmål, tone og fokus etter hvilken gjestegruppe det gjelder. Ved su
 
 ## Kjøreplanmal
 
-Bruk alltid denne strukturen når du lager kjøreplaner. Tilpass segmentinnhold etter episodetype og gjester, men hold strukturen fast.
+Bruk alltid denne strukturen når du lager kjøreplaner (`kjøreplan.md`). Tilpass segmentinnhold etter episodetype og gjester, men hold strukturen fast.
 
+````markdown
 # EPISODE [NR]: [TITTEL MED CAPS]
 
 **Dato:** DD.MM.ÅÅÅÅ
@@ -227,6 +234,35 @@ Bruk alltid denne strukturen når du lager kjøreplaner. Tilpass segmentinnhold 
 - [Episodespesifikke tips, f.eks. dynamikk mellom to gjester, aktuelle temaer]
 - Oppfordre folk til å følge Forza Arendal og møte opp på kamp
 - Be om innspill til temaer og gjester
+````
+
+---
+
+## Beskrivelsesmal
+
+Bruk denne strukturen for episodebeskrivelser (`beskrivelse.md`) som publiseres på Spotify og Apple Podcasts. Første linje (H1) er episodetittelen, resten er brødteksten.
+
+```markdown
+# Episode [NR]: [Tittel]
+
+[Åpningsavsnitt: én–to setninger som plasserer episoden – hvem er gjest(ene), hva er hovedtema og hvorfor bør lytteren bry seg.]
+
+[1–3 avsnitt brødtekst som tematiserer det viktigste i samtalen. Bruk gjerne to–tre spørsmål som teasere – det skaper nysgjerrighet uten å spoile.]
+
+[Avsluttende avsnitt – hva mer berører episoden? Knytt det gjerne til supporterperspektivet hvis relevant.]
+
+🎙️ Dette er Arendal på overtid.
+📣 Følg Forza Arendal, møt opp på kamp – og still på feltet.
+
+Vi sees på stadion!
+```
+
+**Retningslinjer:**
+
+- Hold beskrivelsen konkret: nevn gjester ved navn og posisjon/rolle, og hva episoden faktisk handler om.
+- 2–5 avsnitt totalt. Pilot/spesialepisoder kan være lengre, vanlige gjesteepisoder kortere.
+- Bruk teaserspørsmål sparsomt (maks 2–3) – de skal lokke, ikke overvelde.
+- Avslutningsblokken med 🎙️/📣 og «Vi sees på stadion!» er fast.
 
 ---
 
