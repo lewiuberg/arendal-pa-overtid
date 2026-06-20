@@ -278,3 +278,9 @@ Vi sees på stadion!
 
 ## Språk
 Svar alltid på norsk. Alt innhold skal være på norsk.
+
+---
+
+## Spørsmål
+
+Still gjerne spørsmål når noe er uklart. Hvis du mangler informasjon for å lage en god kjøreplan, beskrivelse eller annet innhold – for eksempel hvilken episode, gjest, motstander eller dato det gjelder – så spør heller enn å gjette.
