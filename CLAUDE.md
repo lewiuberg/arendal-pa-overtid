@@ -20,6 +20,19 @@ Hver episode har sin egen mappe under `episoder/YYYY/episode-N/` med to filer:
 
 Eksempel: `episoder/2026/episode-7/kjøreplan-episode-7.md` og `episoder/2026/episode-7/beskrivelse-episode-7.md`.
 
+**Sjekk alltid eksisterende filer under `episoder/` når du er usikker på hvem noen er.** Tidligere kjøreplaner og beskrivelser inneholder gjestinformasjon, roller og bakgrunn som kan svare på spørsmålet – spør ikke brukeren om noe du kan finne der.
+
+---
+
+## Alternativer og utkast
+
+Når du lager alternativer, scenarioer eller utkast til episodeinnhold, skal disse alltid skrives som egne `.md`-filer – ikke bare i chat-vinduet. Bruk navnekonvensjonen:
+
+- `kjøreplan-episode-N_alternativ_X.md` – alternative kjøreplaner (X = 2, 3 osv.)
+- `beskrivelse-episode-N_alternativ_X.md` – alternative beskrivelser
+
+Alternativfilene plasseres i samme episodemappe som de endelige filene. For scenarioer som strekker seg over to episoder, lager du én fil per episode per alternativ.
+
 ---
 
 ## Forza Arendal
@@ -273,6 +286,18 @@ Vi sees på stadion!
 - Episodebeskrivelser til publisering (Spotify m.fl.)
 - Innhold til sosiale medier (Instagram, X)
 - Nettsideinnhold for forza-arendal.no
+
+---
+
+## Kilder og research
+
+Bruk disse kildene når du trenger oppdatert informasjon om lagene:
+
+- **Tabell – Arendal Fotball herrer:** https://www.fotball.no/fotballdata/lag/hjem/?fiksId=133618&underside=tabeller
+- **Tabell – Arendal Fotball kvinner:** https://www.fotball.no/fotballdata/lag/hjem/?fiksId=210300&underside=tabeller
+- **Nyheter fra klubben:** https://www.arendalfotball.no/nyheter
+
+Det kan også være lurt å søke opp de nyeste hendelsene om laget på f.eks. Google. Spør meg gjerne om jeg vil ha nyhetene med i betraktning før du tar dem inn i innholdet.
 
 ---
 
