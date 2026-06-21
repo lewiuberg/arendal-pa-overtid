@@ -1,4 +1,4 @@
-# EPISODE 8: ALTMULIGMANNEN OG LISBETHS HAT TRICK
+# EPISODE 8: ENDELIG! FØRSTE SEIER PÅ ELLEVE KAMPER
 
 **Dato:** 21.06.2026
 **Varighet:** 45–55 minutter
@@ -8,79 +8,71 @@
 - Mads Bech-Willumstad
 
 **Gjest(er):**
-- Youcef Le Grand Johansen (altmuligmann, Arendal Fotball)
 - Sondre Iuell Frydenlund (supporter, Forza Arendal)
+- Youcef Le Grand Johansen (altmuligmann, Arendal Fotball)
 
 **Podcast:** For supportergruppen *Forza Arendal*
-**Tema:** Vi møter mannen bak kulissene og feirer Arendal Kvinner etter Lisbeths hat trick mot Skarphedin.
+**Tema:** Endelig seier – men hva betyr egentlig én seier etter elleve kamper? Vi feirer, men holder hodet kaldt.
+
+*Resultat: Arendal 3–1*
 
 ---
 
 ## INTRO (2–3 min)
 - Kort intro/jingle
-- Youcef introduceres skikkelig – ny i podcasten
-- Presisere tonen: supporterpodcast, nysgjerrig samtale – ikke pressekonferanse
+- Slå an tonen: lettet, men ikke euforisk – dette er ett steg, ikke frikort
+- Resultatet fra kampen i dag presenteres
+- Kort gjenpresentasjon av gjestene – de var med forrige episode, så hold det kort:
+  - Sondre Iuell Frydenlund – supporter og aktiv i Forza Arendal
+  - Youcef Le Grand Johansen – altmuligmann i Arendal Fotball
 
 ---
 
-## BLI KJENT MED GJESTENE (12–15 min)
+## KAMPEN I DAG – FERSKE INNTRYKK (8–10 min)
+*Arendal vant 3–1*
 
-### Sondre Iuell Frydenlund *(supporter, Forza Arendal – var gjest i ep. 7)*
-- Du var med oss i episode 7 – hva har du tenkt på siden?
-- Er det noe du sa da du angrer på, eller noe du burde ha sagt?
-
-### Youcef Le Grand Johansen *(altmuligmann, Arendal Fotball)*
-- Hva er den offisielle jobbtittelen din – og hva sier du når folk spør hva du gjør?
-- Hvordan havnet du i Arendal Fotball?
-- Beskriv en helt vanlig arbeidsdag – hva er det første og siste du gjør?
-- Hvor mange hatter har du egentlig? Gi oss en liste. Du virker jo til å være involvert i det meste.
-- Hva er den mest absurde oppgaven du har blitt bedt om å gjøre?
+- Beskriv kampen – hvordan føltes det å endelig se tre poeng?
+- Hva fungerte i dag som ikke har fungert tidligere?
+- Enkeltprestasjoner som stakk seg ut positivt?
+- Var dette en prestasjon vi kan bygge på – eller flaks?
 
 ---
 
-## YOUCEFS VERDEN (8–10 min)
-*Fra bakrommet – det vi aldri ser fra tribunen*
+## TABELLEN – TALLENE SNAKKER (6–8 min)
+*3–1-seieren gir tre nye poeng – oppdater tabellplassering før opptak*
 
-- Hva vet supporterne minst om det som skjer bak kulissene?
-- Kampdag – hva skjer fra du ankommer til alt er stille igjen?
-- Hva er det mest krevende med jobben din?
-- Hva er du stolt av at du bidrar med?
-- Hva er forholdet ditt til spillerne og trenerstaben?
+- Vi har endelig tre poeng fra en seier – men hvor er vi egentlig på tabellen nå?
+- Hva må til for å redde sesongen fra her?
+- Er nedrykksspøkelset fortsatt reelt – eller begynner vi å se lyset?
 
 ---
 
-## DAMENE – LISBETH, MAREN OG REBEKKA (12–15 min)
-*Kampen mot Skarphedin var i går – Lisbeth satte 3 av 5 mål*
+## ANALYSE – HVORFOR FUNGERTE DET I DAG? (10–12 min)
 
-**Lisbeth Fredli Rothschild – hat tricket**
-- Lisbeth satte 3 av 5 mål mot Skarphedin – hva sier det om henne som spiller?
-- Hva gjør henne farlig? Teknikk, posisjonering, mentalitet – eller alt?
-- Hvor viktig er hun for laget fremover?
-
-**Maren Grøterud Evenstad – x-faktoren**
-- Lewi har ikke sett alt for mange av kampene til Arendal Kvinner – Men av de 4,5,6 kampene han har han sett at Maren har en teknikk, ro og x-faktor som skiller seg ut – hva er det med henne? Er det noen andre som også ser dette?
-
-**Rebekka Ausland – ute resten av sesongen**
-- Rebekka er ute resten av sesongen – hva betyr det for laget?
-- Hvordan ville det sett ut om vi både hadde Rebekka og Lisbeth på banen samtidig?
+- Hva var annerledes i dag – taktisk, mentalt, individuelt?
+- Er det noen som har levert bra over lengre tid, men ikke fått nok skryt?
+- Hvem var kampens beste spiller og hvorfor?
+- Kan dette laget faktisk prestere når alt klaffer – eller er én seier fortsatt ikke bevis nok?
 
 ---
 
-## SUPPORTERE OG STEMNING (7–8 min)
-- Youcef: hva betyr supporterne for klubben – hva ser du fra innsiden?
-- Merkes det forskjell på kampdag når det er mange supportere på tribunen?
-- Sondre: er det nok engasjement for Arendal Kvinner blant supporterne?
-- Hva kan vi på feltet gjøre bedre for å hjelpe begge lagene?
+## ER VEGARD HANSEN RETT MANN? (8–10 min)
+*Vi diskuterte dette i episode 7 og episode 8 – én seier endrer ikke alt*
+
+- Hva betyr dagens seier for synet på VH?
+- Har vi sett noen tegn til at systemet begynner å sitte?
+- Én seier er bra – men er det nok til å si at han har kontroll?
+- Hva er dommen: tillit eller fortsatt tvil?
 
 ---
 
 ## AVSLUTNING (3–4 min)
-- Hva gleder dere til videre i sesongen?
-- Melding fra Youcef til supporterne
+- Hva håper dere skjer de neste kampene?
+- Melding til supporterne – hold engasjementet oppe
 - Takk til gjestene
 - Oppfordre folk til å møte opp – still på feltet
 - Følg Forza Arendal
-- Tease episode 9: vi tar den tøffe herresnakken etter kampen i dag
+- Tease neste episode
 
 **Fast avslutning:**
 > «Vi sees på stadion»
@@ -88,9 +80,10 @@
 ---
 
 ## NOTATER TIL VERTENE *(ikke på lufta)*
-- Sondre var gjest i episode 7 – unngå å stille de samme bakgrunnsspørsmålene om hvem han er
-- Youcef er ny – gi ham tid til å åpne seg, spesielt tidlig i samtalen
-- Herrenes krise er bevisst utelatt her – episode 9 tar den etter dagens kamp
+- Fei ikke 10 kamper uten seier under teppet – feire seieren, men vær ærlige om at én kamp ikke snur alt
+- Youcef er ansatt i klubben – vær varsom med å presse ham på interne forhold og VH-kritikk
+- Sondre var gjest i episode 7 og 8 – unngå å stille de samme bakgrunnsspørsmålene
+- VH ble diskutert grundig i episode 7 – ankre til at én seier er bra, men ikke automatisk tillitsvotum
 - La gjestene snakke ferdig – still oppfølgingsspørsmål
 - Husk: Dette er en samtale, ikke et intervju
 - Oppfordre folk til å følge Forza Arendal og møte opp på kamp
